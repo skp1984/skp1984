@@ -1,13 +1,92 @@
-<h1 align="center">Hi 👋, I'm Satish</h1>
-<h3 align="center">A passionate Data aspirant</h3>
+# 👋 Hi, I'm Satish Kumar Pillai  
 
-- 🔭 I’m currently enrolled in [Masters of data science](https://www.eastern.edu/academics/graduate-programs/ms-data-science)
+🎓 **M.S. Data Science Candidate (Eastern University)**  
+📍 Based in Mississauga, Canada  
+📧 satya.p1514@gmail.com | 📞 +1 437-970-0559  
 
-- 🌱 I’m currently learning **AI, ML, AI in Healthcare**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![R](https://img.shields.io/badge/R-Programming-lightblue.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-yellow.svg)
+![SQL](https://img.shields.io/badge/SQL-Data%20Queries-blue.svg)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black.svg)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🧠 About Me  
+
+I'm a **Data Science graduate student** passionate about building intelligent systems that learn from data.  
+My work spans **machine learning, deep learning, and computer vision**, with hands-on experience in model development, optimization, and deployment using Python and modern ML frameworks.  
+
+I enjoy translating complex data into actionable insights and exploring topics like **representation learning**, **explainable AI (XAI)**, and **multi-instance learning**.
+
+---
+
+## 🧰 Core Skills  
+
+**Programming & Data:** Python, R, NumPy, pandas, SQL, matplotlib, seaborn  
+**Machine Learning:** Regression, Classification, Clustering, SVM, XGBoost, PCA, t-SNE  
+**Deep Learning:** CNNs, ResNet, YOLO, R-CNN, Mask R-CNN, Image Segmentation  
+**SQL Expertise:** Joins, subqueries, transactions, regression in SQL  
+**Tools:** Jupyter Notebook, Google Colab, Git/GitHub, Flask (for ML model deployment)  
+
+---
+
+## 🎓 Education  
+
+**M.S. Data Science** (Expected May 2026)  
+📍 Eastern University  
+
+---
+
+## 📚 Academic Projects  
+
+### 🧠 COVID-19 Test Prediction – *Neural Network Binary Classifier*  
+Built a TensorFlow-based neural network to predict COVID-19 test outcomes using patient symptoms.  
+Applied data preprocessing, class weighting, and model evaluation to handle class imbalance.  
+
+### 🎯 Loan Default Classification  
+Developed logistic regression, random forest, and XGBoost models; tuned with GridSearchCV and evaluated with precision & recall.  
+
+### 📈 Student Performance Prediction  
+Built regression models to forecast exam scores using Scikit-learn; evaluated with RMSE and R².  
+
+### 👥 Customer Segmentation  
+Applied PCA and clustering to identify customer segments and visualize actionable groups.  
+
+### 🖼️ Image Classification & Recognition  
+Trained CNNs using Keras/TensorFlow; applied transfer learning with ResNet and YOLO for face and object recognition.  
+
+### ⚙️ Anomaly Detection  
+Used unsupervised ML techniques for detecting credit card fraud and mechanical bearing failure using PCA and clustering.  
+
+---
+
+## 🔬 Research Interests  
+
+- Representation Learning (Self-supervised / Contrastive Learning)  
+- Multi-instance Learning  
+- Explainable AI (XAI)  
+- Time-Series and Signal Processing for real-world data (finance, audio, IoT)  
+
+---
+
+## 📜 Certifications  
+
+- **Programming for Everybody (Python)** — University of Michigan (Coursera)  
+
+---
+
+## 🌐 Let’s Connect  
+
+💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+📧 **satya.p1514@gmail.com**  
+📍 Mississauga, Canada  
+
+---
+
+⭐ *I’m currently building academic and applied ML projects while pursuing my Master’s in Data Science.  
+Open to internship opportunities in Machine Learning, Data Science, or AI Engineering.*  
+
