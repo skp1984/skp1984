@@ -1,8 +1,14 @@
 # 👋 Hi, I'm Satish Kumar Pillai  
 
-🎓 **M.S. Data Science Candidate (Eastern University)**  
+🎓 Master’s Student in Data Science  
+💉 Registered Nurse (Healthcare Graduate) / Healthcare AI enthusiast
 📍 Based in Mississauga, Canada  
 📧 satya.p1514@gmail.com | 📞 +1 437-970-0559  
+
+### 💡 About Me
+I’m passionate about using **Data Science, Machine Learning, and AI** to solve real-world problems — both in **general domains** and **healthcare technology**.  
+With a background in healthcare, I bring a unique perspective to data-driven decision making, while continuously exploring broader applications of AI in areas like predictive analytics, automation, and intelligent systems.
+
 
 ---
 
@@ -15,12 +21,11 @@
 
 ---
 
-## 🧠 About Me  
-
-I'm a **Data Science graduate student** passionate about building intelligent systems that learn from data.  
-My work spans **machine learning, deep learning, and computer vision**, with hands-on experience in model development, optimization, and deployment using Python and modern ML frameworks.  
-
-I enjoy translating complex data into actionable insights and exploring topics like **representation learning**, **explainable AI (XAI)**, and **multi-instance learning**.
+### 🧠 Interests
+- Machine Learning & Deep Learning  
+- Data Visualization & Analytics  
+- AI Applications in Healthcare Tech  
+- Predictive Modeling & Real-World Data Science Projects  
 
 ---
 
@@ -41,28 +46,7 @@ I enjoy translating complex data into actionable insights and exploring topics l
 
 ---
 
-## 📚 Academic Projects  
 
-### 🧠 COVID-19 Test Prediction – *Neural Network Binary Classifier*  
-Built a TensorFlow-based neural network to predict COVID-19 test outcomes using patient symptoms.  
-Applied data preprocessing, class weighting, and model evaluation to handle class imbalance.  
-
-### 🎯 Loan Default Classification  
-Developed logistic regression, random forest, and XGBoost models; tuned with GridSearchCV and evaluated with precision & recall.  
-
-### 📈 Student Performance Prediction  
-Built regression models to forecast exam scores using Scikit-learn; evaluated with RMSE and R².  
-
-### 👥 Customer Segmentation  
-Applied PCA and clustering to identify customer segments and visualize actionable groups.  
-
-### 🖼️ Image Classification & Recognition  
-Trained CNNs using Keras/TensorFlow; applied transfer learning with ResNet and YOLO for face and object recognition.  
-
-### ⚙️ Anomaly Detection  
-Used unsupervised ML techniques for detecting credit card fraud and mechanical bearing failure using PCA and clustering.  
-
----
 
 ## 🔬 Research Interests  
 
