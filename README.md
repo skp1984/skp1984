@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Satish Kumar Pillai  
+# 👋 Hi, I'm Satish Pillai  
 
 🎓 Master’s Student in Data Science  
 💉 Registered Nurse (Healthcare Graduate) / Healthcare AI enthusiast
+
 📍 Based in Mississauga, Canada  
 📧 satya.p1514@gmail.com | 📞 +1 437-970-0559  
 
