@@ -81,7 +81,7 @@ Used unsupervised ML techniques for detecting credit card fraud and mechanical b
 
 ## 🌐 Let’s Connect  
 
-💼 [LinkedIn](www.linkedin.com/in/satish-k-089167260)  
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-k-089167260) 
 📧 **satya.p1514@gmail.com**  
 📍 Mississauga, Canada  
 
